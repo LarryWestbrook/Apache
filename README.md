@@ -8,8 +8,9 @@
 
 ``` #apt-get install apache2 ```
 
-- Los ficheros de configuracion se encuentran en /etc/apache2
-- Para trabajar con el servicio de apache utilizaremos los siguientes comandos.
+ Los ficheros de configuracion se encuentran en  ``` /etc/apache2 ```
+ Para trabajar con el servicio de apache utilizaremos los siguientes comandos.
+  
 
 ``` service apache2 start  --> para arrancar ```
 ``` service apache2 stop  --> para pararlo ```
