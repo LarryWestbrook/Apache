@@ -22,5 +22,5 @@
 
 ``` service apache2 status --> comprobamos el estado del servicio ```
 
-
+![image](/img/apache1.jpg)
 
