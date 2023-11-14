@@ -4,6 +4,7 @@
 
 ## 1.- Instalación de Apache y ficheros de configuración.
 
-``` #apt-get update ```
+``` #apt-get update
 
-``` #apt-get install apache2 ```
+ #apt-get install apache2 ```
+
