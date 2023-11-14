@@ -26,7 +26,7 @@
 
 - Esta página web que nos muestra en el navegador se encuentra en la ruta  ``` # cd /var/www/html ``` , dentro encontraremos un fichero index.html, que es la configuración html de la página web que nos muestra por defecto. Si queremos lo podemos modificar a través del editor de textos nano.
 
-- Los ficheros de configuracion se encuentran en  ``` /etc/apache2 ```
+- Los ficheros de configuración se encuentran en  ``` /etc/apache2 ```
 - También existe otro comando para comprobar que no existen errores de sintaxis en los ficheros de configuración:
   
   ``` # apache2ctl -t ```
