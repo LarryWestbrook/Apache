@@ -24,3 +24,7 @@
 
 ![image](/img/apache1.png)
 
+
+- Otra forma de comprobar qiue nuestro apache esta en funcionamiento es yendo a un navegador y poner localhost en el navegador. También se puede acceder desde fuera de la maquina visrtual poniendo en el navegador la ip de nuestro servidor apache.
+
+  
