@@ -40,4 +40,6 @@ Los sitios virtuales permiten que un único servidor Apache pueda servir a las p
 
 ![image](/img/apache2.png)
 
+![image](/img/apache3.png)
+
 
