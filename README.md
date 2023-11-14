@@ -30,4 +30,13 @@
 - También existe otro comando para comprobar que no existen errores de sintaxis en los ficheros de configuración:
   
   ``` # apache2ctl -t ```
-  
+
+## 2.- Creación de un sitio virtual
+
+Los sitios virtuales permiten que un único servidor Apache pueda servir a las páginas de varios dominios. Esto es posible gracias a que los navegadores envían siempre una cabecera Host que permite saber al servidor cuál es el dominio que se está solicitando.
+
+- Primer paso para crear sitios virtuales
+  Como no disponemos de dominios registrados en internet lo que vamos a hacer es simularlos, para ello lo que podemos hacer es editar el siguiente fichero ``` # nano /etc/hosts ``` y vamos a poner que con la ip 127.0.0.1 somos www.larry1.com y www.larry2.com.
+
+![image](/img/apache2.png)
+
