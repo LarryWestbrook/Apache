@@ -48,4 +48,7 @@ Los sitios virtuales permiten que un único servidor Apache pueda servir a las p
 - Segundo paso crear dos carpetas con e comando `# mkdir larry1 larry2` en la ruta `# cd /var/www`. Dentro de estas carpetas creamos un archivo index.html y lo editamos.
 
 ![image](/img/apache4.png)
+
+- Tercer paso nos dirigiremos a `/etc/apache2/sites-available` ahí encontraremos dos ficheros de configuración y copiamos uno de ellos en otros ficheros de configuracion que llevan el nombre de nuestro sitio virtual.
+  
   
