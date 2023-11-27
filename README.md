@@ -58,5 +58,5 @@ Los sitios virtuales permiten que un único servidor Apache pueda servir a las p
 # cp 000-default.cont larry2.conf
 ```
 
-![image](/img/apache5.png)
 ![image](/img/apache6.png)
+![image](/img/apache7.png)
