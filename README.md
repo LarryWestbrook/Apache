@@ -49,6 +49,14 @@ Los sitios virtuales permiten que un único servidor Apache pueda servir a las p
 
 ![image](/img/apache4.png)
 
-- Tercer paso nos dirigiremos a `/etc/apache2/sites-available` ahí encontraremos dos ficheros de configuración y copiamos uno de ellos en otros ficheros de configuracion que llevan el nombre de nuestro sitio virtual.
-  
-  
+![image](/img/apache5.png)
+
+- Tercer paso nos dirigiremos a `/etc/apache2/sites-available` ahí encontraremos dos ficheros de configuración y copiamos uno de ellos en otros ficheros de configuracion que llevan el nombre de nuestro sitio virtual, y accederemos con nano a los archivos de configurción.
+
+```sh
+# cp 000-default.cont larry1.conf
+# cp 000-default.cont larry2.conf
+```
+
+![image](/img/apache5.png)
+![image](/img/apache6.png)
