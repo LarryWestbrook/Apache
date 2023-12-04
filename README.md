@@ -61,9 +61,9 @@ Los sitios virtuales permiten que un único servidor Apache pueda servir a las p
 ![image](/img/apache6.png)
 ![image](/img/apache7.png)
 
+- Cuarto: Accedemos a los archivos con nano y modidificamos dos apartados, ServerName y DocumentRoot
 
-# Continuamos por el min 11
-
+![image](/img/apache8.png)
 
 
 
