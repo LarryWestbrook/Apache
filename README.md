@@ -62,7 +62,7 @@ Los sitios virtuales permiten que un único servidor Apache pueda servir a las p
 ![image](/img/apache9.png)
 
 
-- Por ultimo pondremos el comando a2ensite larry1.conf y larry2.conf y restablecemos el sistema apache2 '# systemctl restart apache2'
+- Por ultimo pondremos el comando a2ensite larry1.conf y larry2.conf y restablecemos el sistema apache2 '# systemctl reload apache2'
  y ya tendremos creado el los sitios web
 
 ![image](/img/apache10.png)
